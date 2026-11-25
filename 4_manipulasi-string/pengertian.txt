@@ -1,0 +1,5 @@
+String adalah tipe data yang digunakan untuk menyimpan teks.
+
+String didefinisikan menggunakan tanda kutip tunggal ' atau ganda "
+
+$greeting = "Hello World"

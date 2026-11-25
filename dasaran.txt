@@ -1,0 +1,20 @@
+ <?php
+ => Tag pembuka
+
+ ?>
+ => Tag penutup
+ 
+ //
+ => digunakan untuk komentar 1 baris kode
+ 
+ /* dan */
+ => digunakan untuk komentar lebih dari 1 baris kode
+ 
+ echo
+ => digunakan untuk mencetak teks ke layar
+ 
+ <?php=
+ => digunakan sebagai pengganti echo
+ 
+ ;
+ => digunakan untuk menutup setiap akhir sebuah kode

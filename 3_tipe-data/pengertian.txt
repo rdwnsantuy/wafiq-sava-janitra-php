@@ -1,0 +1,15 @@
+Tipe data adalah kategori atau jenis dari suatu nilai yang disimpan dalam variabel, yang menentukan bagaimana data tersebut diperlakukan oleh program.
+
+String = menyimpan teks
+Integer = menyimpan bilangan bulat
+Float (Double) = menyimpan bilangan desimal
+Boolean = Menyimpan nilai benar/salah (true atau false)
+Array = Menyimpan beberapa nilai dalam satu variabel
+NULL = Menyimpan variabel tanpa nilai
+
+Macam-macam function built-in php:
+gettype() untuk mengecek tipe data suatu variabel
+var_dump() untuk mengecek tipe data beserta isinya
+is_*() untuk mengecek tipe data tertentu
+    => cara penggunaannya is_int(), is_str(), dst
+

@@ -1,0 +1,13 @@
+Variable adalah tempat untuk menyimpan data yang dapat berubah-ubah selama program dijalankan
+
+Aturan penamaan variable:
+1. diawali dengan simbol $
+2. diawali dengan huruf atau underscore (_)
+3. tidak boleh mengandung spasi
+4. karakter khusus yang dibolehkan hanya underscore (_)
+5. tidak boleh dimulai dengan angka
+6. bisa menggunakan format snake_case ataupun camelCase
+
+
+contoh:
+$namaMahasiswa = "Ridwan Maulana"
